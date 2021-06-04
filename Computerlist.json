@@ -1,0 +1,38 @@
+{
+    "computers": [
+        {
+            "hostName": "ubuntu",
+            "displayName": "",
+            "description": "",
+            "lastIPUsed": "189.203.12.165",
+            "platform": "",
+            "groupID": 0,
+            "policyID": 133,
+            "assetImportanceID": 2,
+            "relayListID": 0,
+            "agentFingerPrint": "30:93:FC:35:41:C5:26:5E:82:31:0C:4C:A7:3D:BE:02:17:0F:0D:7C",
+            "lastAgentCommunication": 1622238769423,
+            "agentVersion": "20.0.0.2204",
+            "biosUUID": "564dafa2-1bcb-3295-cce0-af229c9de398",
+            "hostGUID": "AB8F5C1E-0AF8-E458-4F18-C4FE1B062A3E",
+            "ID": 1
+        },
+        {
+            "hostName": "xenia",
+            "displayName": "",
+            "description": "",
+            "lastIPUsed": "189.203.12.165",
+            "platform": "",
+            "groupID": 0,
+            "policyID": 133,
+            "assetImportanceID": 1,
+            "relayListID": 0,
+            "agentFingerPrint": "E9:3B:2A:BE:C2:D7:89:36:BA:4C:68:10:09:A0:B7:EE:3F:77:F8:AE",
+            "lastAgentCommunication": 1622346430420,
+            "agentVersion": "20.0.0.2395",
+            "biosUUID": "564d5d1c-73ec-7b51-4418-1d7c91bb6a2e",
+            "hostGUID": "F4591928-84B9-2BEE-AA3C-7DE59B2067C5",
+            "ID": 1717
+        }
+    ]
+}
